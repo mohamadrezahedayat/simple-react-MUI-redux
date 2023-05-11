@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f0d7ccc5.js",
+    "static/media/favicon-196x196.png": "/static/media/favicon-196x196.7e0e6d9649e7d3790836.png",
+    "index.html": "/index.html",
+    "main.f0d7ccc5.js.map": "/static/js/main.f0d7ccc5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f0d7ccc5.js"
+  ]
+}
